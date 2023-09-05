@@ -16,7 +16,7 @@ Bir oyun şirketi, müşterilerinin bazı özelliklerini kullanarak seviye taban
 - **Country:** Müşterinin ülkesi
 - **Age:** Müşterinin yaşı
 
-################# Uygulama Öncesi #####################
+## Uygulama Öncesi 
 
   |  PRICE  |  SOURCE  |   SEX   | COUNTRY |  AGE  |
 | ------- | -------- | ------- | ------- | ---- |
@@ -27,7 +27,7 @@ Bir oyun şirketi, müşterilerinin bazı özelliklerini kullanarak seviye taban
 |   49    | android  |  male   |   tur   |  17  |
 
 
-################# Uygulama Sonrası #####################
+## Uygulama Sonrası
 
   | customers_level_based       |    PRICE   | SEGMENT |
 | -------------------------- | ---------- | ------- |
