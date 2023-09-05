@@ -28,12 +28,14 @@ oluşturmak ve bu yeni müşteri tanımlarına göre segmentler oluşturup bu se
 
 ################# Uygulama Öncesi #####################
 
-   PRICE   SOURCE   SEX COUNTRY  AGE
- 0     39  android  male     bra   17
- 1     39  android  male     bra   17
- 2     49  android  male     bra   17
- 3     29  android  male     tur   17
- 4     49  android  male     tur   17
+  |  PRICE  |  SOURCE  |   SEX   | COUNTRY |  AGE  |
+| ------- | -------- | ------- | ------- | ---- |
+|   39    | android  |  male   |   bra   |  17  |
+|   39    | android  |  male   |   bra   |  17  |
+|   49    | android  |  male   |   bra   |  17  |
+|   29    | android  |  male   |   tur   |  17  |
+|   49    | android  |  male   |   tur   |  17  |
+
 
 ################# Uygulama Sonrası #####################
 
